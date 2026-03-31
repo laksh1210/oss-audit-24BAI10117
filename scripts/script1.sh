@@ -3,7 +3,7 @@
 # Author: Anurag Yadav | Course: Open Source Software
 
 # --- Variables ---
-STUDENT_NAME="Anurag Yadav"
+STUDENT_NAME="Lakshya Falor"
 SOFTWARE_CHOICE="Visual Studio Code"
 
 # --- System Info ---
